@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.2">
+    <CLASSES>
+      <root url="jar://C:/DB/lab4/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/commons-logging-1.1.1-api.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/httpclient-4.5.14.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/httpclient-cache-4.5.14.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/httpcore-4.4.16.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/jackson-annotations-2.14.2.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/jackson-core-2.14.2.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/jackson-databind-2.14.2.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/lightcouch-0.2.0.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/org.ektorp-1.5.0.jar!/" />
+      <root url="file://C:/DB" />
+      <root url="jar://C:/DB/lab4/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://C:/DB/lab4/lib/gson-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://C:/DB" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/DB/lab4/src" />
+    </SOURCES>
+  </library>
+</component>
